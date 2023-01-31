@@ -38,3 +38,8 @@ yarn install
 ```
 npm run dev
 ```
+
+
+## Author
+
+- [@xaypanya](https://github.com/Xaypanya)
