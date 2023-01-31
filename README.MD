@@ -18,7 +18,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 - NodeJS and Git are required!
-- Download or clone [this](https://github.com/Xaypanya/vite-react-tailwind-template) repo
+- Download or clone [this](https://github.com/Xaypanya/vite-react-typescript-tailwind-notosanslao) repo
 
 ### Installing
 
