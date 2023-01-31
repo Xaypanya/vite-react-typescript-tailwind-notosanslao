@@ -9,7 +9,7 @@
 
 ## About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+Complete template for React Typescript includes TailwindCSS, Noto Sans Lao built with ViteJS
 
 ## Getting Started <a name = "getting_started"></a>
 
@@ -17,7 +17,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-- NodeJS, Git is required!
+- NodeJS and Git are required!
 - Download or clone [this](https://github.com/Xaypanya/vite-react-tailwind-template) repo
 
 ### Installing
@@ -37,5 +37,4 @@ yarn install
 
 ```
 npm run dev
-
 ```
